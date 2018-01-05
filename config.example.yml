@@ -1,0 +1,6 @@
+plex_url: http://localhost:32400
+plex_token: plex_token
+plex_section: Anime
+mal_username: mal_username
+mal_password: mal_password
+tabulate_fmt: grid

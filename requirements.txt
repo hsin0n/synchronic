@@ -1,0 +1,3 @@
+plexapi
+spice_api
+tabulate
